@@ -1,0 +1,46 @@
+.wrapper {
+
+}
+td{
+    text-align: center;
+}
+#btncito{
+    color: #fff;
+}
+#dlt{
+    color: rgb(200,0,0);
+    font-size: 25px;
+    transition: font-size 1s;
+}
+#dlt:hover{
+    color: rgb(150,0,0);
+    font-size: 28px;
+}
+#dlt:active{
+    color: rgb(250,0,0);
+}
+
+#logotipo{
+    color: white;
+    font-family: 'Notable', sans-serif;
+    font-size: 26px;
+}
+#banner{
+    height: 15vh;
+}
+#sidebar-container{
+    height: 100vh;
+    
+}
+.spmain{
+    margin: 0;
+}
+#mainbr{
+    height: 5vh;
+}
+#mainbr:active{
+    background-color: #2c303b;
+}
+#col{
+    color: grey;
+}
